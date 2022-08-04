@@ -1,2 +1,2 @@
 # ReactLearn32
-Created with CodeSandbox
+Javascript ES6 Spread Operator Practice
